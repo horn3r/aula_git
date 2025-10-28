@@ -1,1 +1,1 @@
-const n1:number = 10
+const n1:number = 15
